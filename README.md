@@ -1,4 +1,5 @@
-![2022-06-09newcrpaiforfusionf130221140x640](https://github.com/samad-31665/samad-31665/assets/139679681/a0f30277-ad32-4538-ae94-b12d74a1ec1f)
+![2022-06-09newcrpaiforfusionf130221140x640](https://github.com/Archetypelearning/Archetypelearning/assets/139679681/021b4f39-9617-4c28-b291-ea33912bb418)
+
 
 <h1 align="center">Hi 👋, I'm Samad KHANI</h1>
 <h3 align="center">A passionate Fusion Safety Analyst/Engineer | AI and ML Engineer specialised in LLM and Transformers</h3>
