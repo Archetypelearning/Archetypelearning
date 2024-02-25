@@ -12,7 +12,7 @@
 
 - 👯 Looking forward to collaborating on [LLM projects, transformers](https://huggingface.co/)
 
-- 👨‍💻 Some of my projects are stored at [https://github.com/samad-31665](https://github.com/samad-31665)
+- 👨‍💻 Some of my projects are stored at [https://github.com/samad-31665](https://github.com/Archetypelearning)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
